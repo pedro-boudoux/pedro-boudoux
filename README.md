@@ -1,10 +1,11 @@
-<h1 align="center">hey i'm pedro</h1>
+<h1 align="left">hey i'm pedro</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedroboudoux/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -13,7 +14,7 @@
 
 ###
 
-<p align="left">- i'm pedro boudoux, computer science student at the university of guelph.<br>- in my free time i'm probably tinkering with my nix configs.<br>- chronically into: soccer, mid-century modern architecture, underground hip-hop.<br>- currently getting into: reading (recently finished Do Androids Dream of Electric Sheep & Animal Farm).</p>
+<p align="left">- i'm pedro, a computer science student at the university of guelph.<br>- in my free time i'm probably tinkering with my nix configs.<br>- chronically into: soccer, mid-century modern architecture, underground hip-hop.<br>- currently getting into: reading (recently finished Do Androids Dream of Electric Sheep & Animal Farm).</p>
 
 ###
 
@@ -64,10 +65,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pedro-boudoux&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedro-boudoux/pedro-boudoux/output/snake.svg" alt="Snake animation" />
 
 ###
 

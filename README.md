@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/pedroboudoux/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- i'm pedro, a computer science student at the university of guelph.<br>- in my free time i'm probably tinkering with my nix configs.<br>- chronically into: soccer, mid-century modern architecture, underground hip-hop.<br>- currently getting into: reading (recently finished Do Androids Dream of Electric Sheep & Animal Farm).</p>
+<p align="left">- i'm pedro, a computer science student at the university of guelph.<br>- in my free time i'm probably tinkering with my nix configs.<br>- chronically into: soccer, mid-century modern architecture, underground hip-hop.<br>- currently getting into: reading (recently finished Do Androids Dream of Electric Sheep & Animal Farm).<br>- learning SvelteKit at the moment</p>
 
 ###
 
@@ -54,20 +54,6 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-<h2 align="left">the stats</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedro-boudoux/pedro-boudoux/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedro-boudoux&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###

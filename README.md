@@ -56,14 +56,3 @@
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
 </div>
 
-###
-
-<h3 align="left">mandatory nixos badge</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge" height="40" alt="nixos logo"  />
-</div>
-
-###

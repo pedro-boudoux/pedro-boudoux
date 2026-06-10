@@ -1,12 +1,4 @@
-<h1 align="left">hey i'm pedro</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedroboudoux/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h1 align="left">hi, i'm pedro</h1>
 
 ###
 
@@ -14,11 +6,19 @@
 
 ###
 
-<p align="left">- i'm pedro, a computer science student at the university of guelph.<br>- in my free time i'm probably tinkering with my nix configs.<br>- chronically into: soccer, mid-century modern architecture, underground hip-hop.<br>- currently getting into: reading (recently finished Do Androids Dream of Electric Sheep & Animal Farm).<br>- learning SvelteKit at the moment</p>
+<p align="left">I'm a 3rd year Computer Science student at the University of Guelph. Currently interning as a Software Engineer at 7D Kinematic Metrology. This fall I'll be interning as a Software Dev at ADknown.</p>
 
 ###
 
-<h3 align="left">i'm comfortable working with but not limited to</h3>
+<p align="left">In my free time I'm probably listening to music (really into Brazilian stuff like MPB and underground rap), or starting a new project for fun, most recently I've built Pyo a music discovery algorithm (check it out below!).</p>
+
+###
+
+<p align="left">I care a lot about UI/UX and love chatting about it. When I build something it's one of the first things on my mind.</p>
+
+###
+
+<h2 align="left">i'm comfortable with but not limited to</h2>
 
 ###
 
@@ -54,5 +54,10 @@
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
 </div>
 
+###

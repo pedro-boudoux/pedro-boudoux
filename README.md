@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">In my free time I'm probably listening to music (really into Brazilian stuff like MPB and underground rap), or starting a new project for fun, most recently I've built Pyo a music discovery algorithm (check it out below!).</p>
-
-###
-
-<p align="left">I care a lot about UI/UX and love chatting about it. When I build something it's one of the first things on my mind.</p>
+<p align="left">In my free time I'm probably listening to music (really into Brazilian stuff like MPB and underground rap), or starting a new project for fun. Most recently I've built Pyo: a music discovery algorithm (check it out below!).</p>
 
 ###
 

@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a 3rd year Computer Science student at the University of Guelph. Currently interning as a Software Engineer at 7D Kinematic Metrology. This fall I'll be interning as a Software Dev at ADknown.</p>
+<p align="left">I'm a 3rd year Computer Science student at the University of Guelph. Currently working as a Software Developer at coShopper (ADknown).</p>
 
 ###
 
